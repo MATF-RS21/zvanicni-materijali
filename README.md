@@ -11,17 +11,17 @@
 
 ## Plan vežbi po temama
 
-1. Uvod u C++. Strukture podataka u standardnoj biblioteci.
-1. Upravljanje dinamičkim resursima. Pametni pokazivači. RAII idiom.
-1. OOP u jeziku C++. UML dijagrami klasa.
-1. Kreiranje grafičkih korisničkih interfejsa (Qt5). _Aplikacije sa grafičkom scenom i grafičkim elementima (Qt5)._
-1. Programiranje šablona.
-1. Algoritmi standardne biblioteke.
-1. Statičke i dinamičke C++ biblioteke. Povezivanje funkcija. _CMake sistem za izgradnju aplikacija._
-1. Testiranje softvera (jedinični testovi) i razvoj vođen testiranjem. Biblioteka Catch2.
-1. Serijalizacija i deserijalizacija podataka (Qt5).
-1. _Arhitektura softvera. Model-pogled arhitektura u aplikacijama sa grafičkim korisničkim interfejsom (Qt5)._
-1. Programiranje višenitnih aplikacija (Qt5). Osnove sinhronizacije niti u konkurentnom okruženju (Qt5).
+1. [C++] Uvod. Strukture podataka u standardnoj biblioteci.
+1. [C++] Upravljanje dinamičkim resursima. Pametni pokazivači. RAII idiom.
+1. [C++] Objektno-orijentisano programiranje. UML dijagrami klasa.
+1. [Qt5] Kreiranje grafičkih korisničkih interfejsa. _Radni okvir grafičke scene._
+1. [C++] Programiranje šablona.
+1. [C++] Algoritmi standardne biblioteke.
+1. [Catch2] Testiranje softvera (jedinični testovi) i razvoj vođen testiranjem.
+1. [Qt5] Programiranje višenitnih aplikacija. Osnove sinhronizacije niti u konkurentnom okruženju.
+1. [C++] _Statičke i dinamičke C++ biblioteke. Povezivanje funkcija. CMake sistem za izgradnju aplikacija._
+1. [Qt5] Serijalizacija i deserijalizacija podataka.
+1. [Qt5] _Arhitektura softvera. Model-pogled arhitektura._
 
 Teme koje se ne proveravaju na praktičnim proverama znanja su prikazane _iskošenim_ slovima.
 
