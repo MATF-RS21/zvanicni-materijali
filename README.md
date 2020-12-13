@@ -15,11 +15,11 @@
 1. [C++] Upravljanje dinamičkim resursima. Pametni pokazivači. RAII idiom.
 1. [C++] Objektno-orijentisano programiranje. UML dijagrami klasa.
 1. [Qt5] Kreiranje grafičkih korisničkih interfejsa. _Radni okvir grafičke scene._
-1. [C++] Programiranje šablona.
-1. [C++] Algoritmi standardne biblioteke.
-1. [Catch2] Testiranje softvera (jedinični testovi) i razvoj vođen testiranjem.
-1. [Qt5] Programiranje višenitnih aplikacija. Osnove sinhronizacije niti u konkurentnom okruženju.
-1. [C++] _Statičke i dinamičke C++ biblioteke. Povezivanje funkcija. CMake sistem za izgradnju aplikacija._
+1. [C++] Parametarski polimorfizam.
+1. [C++] Odabrani algoritmi iz STL. Elementi funkcionalne paradigme.
+1. [Catch2] Testiranje softvera. Razvoj vođen testovima.
+1. [Qt5] Programiranje višenitnih aplikacija. Osnove sinhronizacije niti.
+1. [C++,CMake] _Izgradnja C++ biblioteka i povezivanje funkcija. Sistemi za izgradnju koda._
 1. [Qt5] Serijalizacija i deserijalizacija podataka.
 1. [Qt5] _Arhitektura softvera. Model-pogled arhitektura._
 
