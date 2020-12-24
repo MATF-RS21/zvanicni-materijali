@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<student type="QVariantMap">
+    <courseItems type="QVariantList">
+        <item type="QVariantMap">
+            <espb type="uint">8</espb>
+            <name type="QString">Projektovanje baza podataka</name>
+        </item>
+        <item type="QVariantMap">
+            <espb type="uint">6</espb>
+            <name type="QString">Veštačka inteligencija</name>
+        </item>
+        <item type="QVariantMap">
+            <espb type="uint">2</espb>
+            <name type="QString">Stručni kurs 1</name>
+        </item>
+        <item type="QVariantMap">
+            <espb type="uint">6</espb>
+            <name type="QString">Istraživanje podataka 1</name>
+        </item>
+        <item type="QVariantMap">
+            <espb type="uint">2</espb>
+            <name type="QString">Računari i društvo</name>
+        </item>
+    </courseItems>
+    <enrolled type="bool">true</enrolled>
+    <index type="QString">50/2000</index>
+    <name type="QString">Laza</name>
+    <pno type="QString">0203981021457</pno>
+    <surname type="QString">Lazić</surname>
+</student>
