@@ -1,0 +1,29 @@
+{
+    "courseItems": [
+        {
+            "espb": 8,
+            "name": "Projektovanje baza podataka"
+        },
+        {
+            "espb": 6,
+            "name": "Veštačka inteligencija"
+        },
+        {
+            "espb": 2,
+            "name": "Stručni kurs 1"
+        },
+        {
+            "espb": 6,
+            "name": "Istraživanje podataka 1"
+        },
+        {
+            "espb": 2,
+            "name": "Računari i društvo"
+        }
+    ],
+    "enrolled": true,
+    "index": "50/2000",
+    "name": "Laza",
+    "pno": "0203981021457",
+    "surname": "Lazić"
+}

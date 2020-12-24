@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<student type="QVariantMap">
+    <courseItems type="QVariantList">
+        <item type="QVariantMap">
+            <espb type="uint">6</espb>
+            <name type="QString">Veštačka inteligencija</name>
+        </item>
+        <item type="QVariantMap">
+            <espb type="uint">8</espb>
+            <name type="QString">Razvoj softvera</name>
+        </item>
+    </courseItems>
+    <enrolled type="bool">true</enrolled>
+    <index type="QString">12/1234</index>
+    <name type="QString">Pera</name>
+    <pno type="QString">1405984201456</pno>
+    <surname type="QString">Perić</surname>
+</student>

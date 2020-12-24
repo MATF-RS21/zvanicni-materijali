@@ -1,0 +1,17 @@
+{
+    "courseItems": [
+        {
+            "espb": 6,
+            "name": "Veštačka inteligencija"
+        },
+        {
+            "espb": 8,
+            "name": "Razvoj softvera"
+        }
+    ],
+    "enrolled": true,
+    "index": "12/1234",
+    "name": "Pera",
+    "pno": "1405984201456",
+    "surname": "Perić"
+}

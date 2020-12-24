@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<student type="QVariantMap">
+    <courseItems type="QVariantList"/>
+    <enrolled type="bool">false</enrolled>
+    <index type="QString">50/2010</index>
+    <name type="QString">Marija</name>
+    <pno type="QString">1234567890123</pno>
+    <surname type="QString">Petrović</surname>
+</student>

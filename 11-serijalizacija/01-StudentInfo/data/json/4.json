@@ -1,0 +1,17 @@
+{
+    "courseItems": [
+        {
+            "espb": 6,
+            "name": "Uvod u organizaciju računara"
+        },
+        {
+            "espb": 5,
+            "name": "Analiza 1"
+        }
+    ],
+    "enrolled": true,
+    "index": "20/2005",
+    "name": "Marija",
+    "pno": "0103985142756",
+    "surname": "Milovanović"
+}
